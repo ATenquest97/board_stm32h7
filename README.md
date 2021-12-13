@@ -76,7 +76,7 @@ SWD interface
 
 + 自弹tf卡座
 
-### UART/USART
+### UART/USART-115200
 
 + UART1
 
