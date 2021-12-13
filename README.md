@@ -86,7 +86,7 @@ SWD interface
 
 ### USB
 
-+ usb type-c include usb-host 2.0 and supply power.
++ **usb type-c** include usb-host 2.0 and supply power.
 
 ### Camera
 
@@ -98,7 +98,7 @@ SWD interface
 
 + 1 RESET Key
 
-+ 1 Power Key
++ 1 Power Key(On/off)
 
 ### LED
 
