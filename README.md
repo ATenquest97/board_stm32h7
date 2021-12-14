@@ -88,13 +88,19 @@ SWD interface
 
 + **usb type-c** include usb-host 2.0 and supply power.
 
++ A6 = D+
+
++ A7 = D-
+
 ### Camera
 
 + digital camera interface.
 
+### Audio DAC
+
 ### Key
 
-+ 4 Keys
++ 3 Keys
 
 + 1 RESET Key
 
