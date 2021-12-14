@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=K4 NewDesignator=K5
+Added Component: Designator=R6(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BOOT0 Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=LEDA Pin=R7-1
+Added Pin To Net: NetName=BOOT0 Pin=R7-2
+Added Pin To Net: NetName=NRST Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=NetCAT1_3 Pin=R17-1
+Added Pin To Net: NetName=LEDA Pin=R17-2
+Added Member To Class: ClassName=STM32_PINS Member=Component R6 NC
+Added Member To Class: ClassName=STM32_PINS Member=Component R7 4.9k¦¸
+Added Member To Class: ClassName=STM32_PINS Member=Component R8 4.7K¦¸
+Added Member To Class: ClassName=LCD Member=Component R17 15¦¸
+Added Room: Name=INTERFACE
+Added Room: Name=LCD
+Added Room: Name=STM32_PINS
+Added Room: Name=stm32_vcc
+Added Room: Name=Store

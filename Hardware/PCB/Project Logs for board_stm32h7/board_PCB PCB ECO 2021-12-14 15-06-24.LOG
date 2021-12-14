@@ -1,0 +1,5 @@
+Added Room: Name=INTERFACE
+Added Room: Name=LCD
+Added Room: Name=STM32_PINS
+Added Room: Name=stm32_vcc
+Added Room: Name=Store
